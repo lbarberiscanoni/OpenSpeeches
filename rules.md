@@ -15,7 +15,8 @@ In order for this to be productive we need a few rules which are really more of 
         * ii. Foreign Policy IE any foreign policy issue not included in any other category below
         * iii. Economics IE anything related to an economic issue 
         * iv. Counterplans IE alternative solutions to a bill's problem
-        * v. Constitutionality Speeches
+        * v. Constitutionality IE why the bill either violates or undermines the constitution
+        * vi. Philosophical IE based on morality and principles as opposed to the regular stock issues
     + It is OK to put your speeches in multiple folders, just make sure they apply
 2. When you cite sources, please include:
     + a) First Name and Last Name (Ex. Joseph Nye)

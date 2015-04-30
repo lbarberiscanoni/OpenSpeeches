@@ -1,0 +1,23 @@
+---
+layout: page
+title: Constitutional Law
+permalink: /conlaw/
+---
+
+<div class="home">
+
+  <ul class="post-list">
+    {% for conlaw in site.tags.conlaw %}
+      <li>
+        <span class="post-meta">{{ conlaw.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ conlaw.url | prepend: site.baseurl }}">{{ conlaw.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>

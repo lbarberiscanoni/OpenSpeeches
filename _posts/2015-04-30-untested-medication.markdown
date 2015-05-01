@@ -1,13 +1,14 @@
 ---
 layout: post
-tag: philosophical
+tag: 
+- philosophical
+- domestic
 author: Joe-Gunst
 ---
 
 Let me begin by first doing what no other affirmative speaker has been able to do: define “untested medications” and then I will explain why you should also support this bill. 
 
-First
-Because of the recent Ebola outbreak, the World Health Organization turned to what they referred to as “untested medication”.  They defined it as any medication which has not cleared Phase 1 testing.  The US national library of medication defines phase 1 testing as “Researchers test a new drug or treatment in a small group of people for the first time to evaluate its safety, determine a safe dosage range, and identify side effects.” This medication has already been tested on animals such as primates, which our DNA is extremely similar. This isn’t your teenage neighbor bobby selling you his acne cream for your cancer, this a group of dedicated reseachers and scientist working on a cure or vaccine for your disease. 
+First, because of the recent Ebola outbreak, the World Health Organization turned to what they referred to as “untested medication”.  They defined it as any medication which has not cleared Phase 1 testing.  The US national library of medication defines phase 1 testing as “Researchers test a new drug or treatment in a small group of people for the first time to evaluate its safety, determine a safe dosage range, and identify side effects.” This medication has already been tested on animals such as primates, which our DNA is extremely similar. This isn’t your teenage neighbor bobby selling you his acne cream for your cancer, this a group of dedicated reseachers and scientist working on a cure or vaccine for your disease. 
 
 And secondly, I stand in favor of today’s bill because I refuse to let the government have the power to impose such a choice on the American people. Our constituents are free people, and this legislation supports that.
 When someone is diagnosed with a life threatening disease their days are numbered, unfortunately there is no number for the ineffienciency of this government and there is no due by date for the approval of medication. So our constituents will watch the sand in their hourglass fall waiting for faceless officials to approve what they need.

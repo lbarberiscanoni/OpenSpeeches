@@ -6,10 +6,10 @@ permalink: /rules/
 
 In order for this to be productive we need a few rules which are really more of guidelines:
 
-1. PUT YOUR SPEECH IN THE RIGHT FOLDER
+1. TAG YOUR SPEECHES CORRECTLY
     + This is __the most important__ rule of all
-    + A speech goes into the folder that either applies to the bill it is written for or to the actual argument being made
-        * Ex. a constitutionality speech on a bill to end a free trade agreement goes both in the con law folder and the foreign policy folder
+    + A speech gets the tag that either applies to the bill it is written for or to the actual argument being made
+        * Ex. a constitutionality speech on a bill to end a free trade agreement gets a conlaw tag and a foreign tag
     + The sections for now are 
         * i. Domestic IE any speech dealing with domestic issues that are not part of other categories below
         * ii. Foreign Policy IE any foreign policy issue not included in any other category below
@@ -17,7 +17,7 @@ In order for this to be productive we need a few rules which are really more of 
         * iv. Counterplans IE alternative solutions to a bill's problem
         * v. Constitutionality IE why the bill either violates or undermines the constitution
         * vi. Philosophical IE based on morality and principles as opposed to the regular stock issues
-    + It is OK to put your speeches in multiple folders, just make sure they apply
+    + It is OK to tag your speeches in multiple areas, just make sure they apply
 2. When you cite sources, please include:
     + a) First Name and Last Name (Ex. Joseph Nye)
     + b) Qualification (Ex. IR professor at Harvard)
@@ -51,7 +51,7 @@ In order for this to be productive we need a few rules which are really more of 
         * Because the goal is to see what about your speech can apply to a different bill, don't reference the specific bill you were debating but rather the area your speech applies to 
         * BAD Ex. A Bill To Reform Drone Strikes
         * GOOD Ex. Congressional Oversight on Drones
-    + b) State your side 
+    + b) State your side only if necessary
         * This is pretty self-explanatory
     + c) Don't include your name in the title
-        * No one cares, you can up that at the end of your speech or whatever
+        * No one cares, just put your name in the author tag

@@ -27,7 +27,9 @@ permalink: /search/
 			<tbody class="list">
 			{% for post in site.posts %}
 				<tr>
-					<td class="name">{{ post.title }}</td>
+					<td class="name">
+                        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                    </td>
 					<td class="category">{{ post.author }}</td>
 					<td class="tags">{{ post.tags | array_to_sentence_string }}</td>
 				</tr>

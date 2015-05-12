@@ -1,0 +1,23 @@
+---
+layout: page
+title: Principles and Theories
+permalink: /principles_and_theories/
+---
+
+<div class="home">
+
+  <ul class="post-list">
+    {% for theory in site.tags.theory %}
+      <li>
+        <span class="post-meta">{{ theory.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ theory.url | prepend: site.baseurl }}">{{ theory.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>

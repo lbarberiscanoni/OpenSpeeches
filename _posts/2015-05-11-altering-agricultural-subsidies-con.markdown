@@ -6,7 +6,6 @@ tags:
 author: Sulaiman-Ahmad
 ---
 
-
 Don’t need to reallocate we need to cut 
 
 Unfair Redistribution. Farm programs take from average taxpayers and give to higher-income farm households, which is a reverse Robin Hood scheme. In 2011 average incomes of farm households was $87,289, or 25 percent higher than the $69,677 average of all U.S. households.

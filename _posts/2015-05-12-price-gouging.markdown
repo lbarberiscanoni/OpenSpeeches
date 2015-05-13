@@ -6,9 +6,6 @@ tags:
 - philosophical
 author: Joe-Gunst
 ---
-A Bill to outlaw price gouging
-
-NEG
 
 This bill is an insult to property rights and economics. And in my speech I will explain to you why for these two reasons you should vote in the negation.
 

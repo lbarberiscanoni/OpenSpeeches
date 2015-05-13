@@ -5,9 +5,6 @@ tags:
 - foreign
 author: Joe-Gunst
 ---
-Isreal
- NEG
-
 "What a cruel thing war is... to fill our hearts with hatred instead of love for our neighbors." –Robert E Lee said that, the irony being that he is remembered for war and also being our enemy. But he explains an overarching truth. War is bad, and our support of Isreal encourages Isreal and spurns Hamas to action, I stand negation of todays in order to avoid problems in the future and will then go over the cost this bill would entail.
 
 First, to avoid problems in the future, according to the Jerusalem post US Gen. David Petraeus said on March 16 2010 that US involvement in the Arab-Israeli conflict hurts America's ability to advance its interests in the Middle East, fomenting anti-American sentiment and limiting America's strategic partnership.

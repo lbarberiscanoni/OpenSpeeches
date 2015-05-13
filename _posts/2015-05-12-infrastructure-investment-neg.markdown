@@ -5,8 +5,6 @@ tags:
 - econ
 author: Joe-Gunst
 ---
-A bill to provide Investment for infrastructure
-
 A popular story floats around groups that favor free markets. The story goes when Milton Friedman was in Asia, and he observed a canal being built. He didn't see the use of any heavy machinery. What he did see was workers with shovels. So he asked the government official who was with him, "why don't these people have heavy machinery?" the story goes the official responded, "you don't understand. This is a jobs program." Milton replied, "well, then you should take away their shovels and give them all spoons."
 
 In my speech I will explain why we don't need to increase government spending on infrastructure and why job bills are inefficient.

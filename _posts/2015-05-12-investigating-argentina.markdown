@@ -5,7 +5,6 @@ tags:
 - philosophical
 author: Joe-Gunst
 ---
-Argentina NEG
 
 Philosopher Bertrand Russell once said "War does not determine who is right, only who is left"
 

@@ -5,7 +5,6 @@ tags:
 - foreign
 author: Will-Tapp
 ---
-Sending Help to Israel
 
 Senators I am up here to tell you that we need to negate this bill for really one main reason. Not because sending help to Israel will cost too much money, or that American lives aren't worth the lives of the people in the Israel Palestine conflict, but I am here to tell you that we should cut off our alliance, our financial aid, and our military aid to Israel because the land Israel lies on rightfully belongs to the Palestinians.
 

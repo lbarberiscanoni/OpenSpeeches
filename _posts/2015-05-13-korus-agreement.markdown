@@ -5,7 +5,6 @@ tags:
 - conlaw
 author: Lorenzo-Barberis-Canonico
 ---
-KORUS Agreement NEG
 
 **Art. 2 Sec. 2** _"President = commander in Chief" therefore he has foreign policy power_
 

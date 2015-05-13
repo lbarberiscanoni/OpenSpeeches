@@ -5,10 +5,6 @@ tags:
 - philosophical
 author: Joe-Gunst
 ---
-Police Militarization
-
-NEG
-
 Fellow congressman in my speech I will go over the poor wording of this bill and then how unlike in Pokemon in real life badges don't grant extra rights.
 
 As my first point this bill isn't clear over how different weapons are categorized for example: According to Police How a company designed for people to learn how to become police officers. Generally a police officer has a police pistol, a baton, a flashlight, handcuffs and maybe a tazer, while they can also have access to police shotgun and a bulletproof vest they do not generally patrol with those.

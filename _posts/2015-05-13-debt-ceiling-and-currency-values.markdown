@@ -5,8 +5,6 @@ tags:
 - econ
 author: Lorenzo-Barberis-Canonico
 ---
-Debt Ceiling Reform PRO
-
 A budget makes the US financially unstable
 
 Standard's & Poor's Director **Joydeep Mukerhsi** explains on August 5th of 2011 _"the US credit rating was downgraded 3 summers ago bc the US Congress was at a stalemate over extending the budget, creating the risk for a default."_

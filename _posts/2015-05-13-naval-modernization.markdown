@@ -5,7 +5,6 @@ tags:
 - foreign
 author: Lorenzo-Barberis-Canonico
 ---
-Naval Modernization NEG
 
 **Art. 2 Sec. 2** _"President = commander in Chief" therefore he has foreign policy power_
 

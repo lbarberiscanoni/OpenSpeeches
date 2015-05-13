@@ -5,8 +5,6 @@ tags:
 - econ
 author: Will-Tapp
 ---
-Online Sales tax
-
 We need to affirm this bill for two main reasons. Companies like Amazon are practically stealing from states that require a sales tax, and not making online companies like amazon charge a sales tax could disrupt the economy.
 
 In the United States almost every single state has a sales tax. This sales tax helps the state government fund all its facilities and overall keeps local governments. So you might be asking yourself how companies like Amazon can get around this tax. The answer is that in the constitution it states that if I buy something in California while I am in South Carolina the place I bought said thing from in California doesn't have to charge a sales tax because the tax in California is different. So therefore when using Amazon most of the times you are not getting something from inside your state so you don't have to pay tax. The only problem is that I don't think the people who wrote that in the constitution didn't account for the internet. Because of this it is our duty as senators to amend the constitution in the best way possible. Therefore we must affirm this bill. But this isn't the only reason,

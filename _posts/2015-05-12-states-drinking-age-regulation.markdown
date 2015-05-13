@@ -5,8 +5,6 @@ tags:
 - conlaw
 author: Lorenzo-Barberis-Canonico
 ---
-Drinking Age NEG
-
 John Locke considered the role of a good government to be protecting LIFE LIBERTY AND PROPERTY. Liberty uniquely stands out as the most important it is freedom that makes life meaningful and property worth pursuing.
 
 Thus I stand negation of today's legislation because of liberty: the unalienable right of every single American to exercise their own will so long as they don't infringe on another's natural rights. And as such I believe in a counterplan for abolishing the drinking age altogether.

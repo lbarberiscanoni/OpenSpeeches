@@ -6,10 +6,6 @@ tags:
 - philosophical
 author: Joe-Gunst
 ---
-Crude Oil
-
-AFF
-
 Those on the negation think they are helping by regulating the market, the problem is that when you regulate the market you are really regulating people, the market isn't a machine you jumpstart, it's the billions of voluntary exchanges that happen everyday or in other words human action. And as such when you regulate the market you are regulating people.
 
 In my speech I will go over two contentions the first is to promote the free market, and the second the economic benefits of affirming this bill.

@@ -6,7 +6,6 @@ tags:
 - domestic
 author: Lorenzo-Barberis-Canonico
 ---
-PMF CP on Syria Aid
 
 **Adam Ebrahim** , IR prof @ BU, on the 2010 BU i-law Journal_"PMFs like Executive Outcomes are critical to humanitarian intervention and are even used by the UN. Not only are they trained to rebuild infrastructure but also to protect it."_
 

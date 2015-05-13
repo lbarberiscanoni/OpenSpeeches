@@ -6,10 +6,6 @@ tags:
 - philosophical
 author: Joe-Gunst
 ---
-A Resolution to Restore the Military Draft
-
-AFF
-
 At first I looked at this legislation with abhorrence; but then I noticed in line 9 that the year can be served in either the military, civil service or Americorps. Both Affirmative and negation speakers have stood up and talked a lot about the military and even the bill talks about world tensions escalating and the necessity of a strong military. I am against war ;However I stand in Affirmation in todays resolution and I will layout how this bill will actively led to more experience and brighter futures for our youth and as a result less war
 
 Americorps is a great opportunity for young Americans to grow as individuals. For those us you who are not familiar with Americorps it is a service where Americans participate in volunteering, and they work for the benefit of others. Molly Latham from the Univerisity of Nevada reports that teenagers volunteer 2.4 billion hours annually which is worth 34.3 billion dollars to the us economy.

@@ -5,7 +5,6 @@ tags:
 - econ
 author: Lorenzo-Barberis-Canonico
 ---
-Glass-Steagall NEG
 
 Leads to under-utilized capital
 

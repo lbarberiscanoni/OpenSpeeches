@@ -5,7 +5,6 @@ tags:
 - econ
 author: Sarai-Dai
 ---
-**Obamacare – aff**
 
 1. _Reimbursements to the government would hurt the poor._ According to the Wall Street Journal on Feb 20, 2015, for many taxpayers, the tax refund is their biggest payout of the year. If people who mistakenly got too much credit must reimburse the government, not only do they have to wait even longer for the tax refund that they might desperately need, but they also won't get the extra money that they might have been counting on, not knowing that they weren't supposed to get it.
 

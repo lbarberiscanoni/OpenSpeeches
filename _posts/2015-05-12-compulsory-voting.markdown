@@ -5,7 +5,6 @@ tags:
 - philosophical
 author: Will-Tapp
 ---
-Compulsory Voting
 
 Senators we must negate this bill for three main reasons. 1 if we force people to vote they will just do it because they have to and won't take the proper time to educate themselves on the candidates, 2 if a person doesn't like the candidates on the roster the will be forced to vote for something they don't want, and 3 the amount of voting polls we would have to add would cost a lot of money.
 

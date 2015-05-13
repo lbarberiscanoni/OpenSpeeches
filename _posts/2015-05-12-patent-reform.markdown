@@ -5,7 +5,6 @@ tags:
 - philosophical
 author: Joe-Gunst
 ---
-Patent NEG
 
 My first contention is that this bill extends the problem of our current patent laws by blaming the victims and forcing them to pay legal fees of the accused. My second is that this bill will slow the development of new technologies.
 

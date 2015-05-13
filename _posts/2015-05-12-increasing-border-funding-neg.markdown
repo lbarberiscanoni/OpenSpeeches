@@ -5,7 +5,6 @@ tags:
 - domestic
 author: Will-Tapp
 ---
-Border Funding
 
 Senators we need to negate this bill for two reasons, first we have already tried with no success, and second this isn't a problem for the United States government.
 

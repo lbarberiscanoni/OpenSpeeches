@@ -7,7 +7,6 @@ tags:
 author: Kerry-Yan
 ---
 
-
 Expanding infantry is counterproductive. Center for Research on Globalization March 2014 "97% of 125,000 federal inmates are non-violent – this bill affects over 100,000 people.""
 
 Infantry is by definition ground force, and there’s just no need for a large ground force right now.A Senior Pentagon Official is quoted in NYT Feb 23 stating “You can’t carry a large land war defense department hen there is no large land war.” Moreover, Gordon Adams, FP professor at American U, states that "cutting the infantry makes sense because a land force is the easiest to regenerate."

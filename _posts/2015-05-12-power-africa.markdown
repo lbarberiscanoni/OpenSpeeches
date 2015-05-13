@@ -5,8 +5,6 @@ tags:
 - foreign
 author: Joe-Gunst
 ---
-Power Africa
-
 Somalia has problems but none of them is anarchy there are 4 governements competing over control and I believe the bill has picked the wrong one. I am going to layout a Counterplan because the suggested government is internationally considered a failure and Somaliland is a nation on the rise.
 
 I assert that rather than giving the specified resources to Dowladda Federaalka Soomaalia instead we give them to Somaliland where the resources would be put to actually constructive use.

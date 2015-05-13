@@ -7,8 +7,6 @@ tags:
 - philosophical
 author: Joe-Gunst
 ---
-Decrease Corporate tax
- NEG
 
 I will not vote for a bill that merely attempts to mask the persistent problem that is the income tax. Since the legal justification on Corporate tax is that it is an income tax I cannot vote for anything that legitimizes it. It is legalized involuntary servitude and it dispossess individuals of their earnings, regardless of its limits I cannot vote for bill that continues the problem of involuntary servitude.
 

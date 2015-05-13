@@ -5,9 +5,6 @@ tags:
 - foreign
 author: Joe-Gunst
 ---
-Expand NAFTA
-
-AFF
 
 "Which is better for man and for society—abundance or scarcity?
 

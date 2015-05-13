@@ -6,9 +6,6 @@ tags:
 - philosophical
 author: Joe-Gunst
 ---
-ISIS kill list
-
-NEG
 
 "You think the only people who are people, are the people who look and think like you. But if you walk the footsteps of a stranger, you'll learn things you never knew, you never knew." So sang Pocahontas to John Smith in the Disney movie Pocahontas, despite the obvious childishness, children's movies teach lessons and this one is that we should not pass blanket judgment on a group of people us without us doing the proper investigation and going through due process.
 

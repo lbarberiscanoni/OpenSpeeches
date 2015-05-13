@@ -4,8 +4,6 @@ tags:
 - foreign
 author: Lorenzo-Barberis-Canonico
 ---
-Open Trade with Iran PRO
-
 **Brian Spegele**
 # 1
 , from the Wall Street Journal, points out that _"China has created a powerful sphere of influence in Iran to maintain a stable source of oil. In this way, China has endorsed Iran's increasing missile program as a way to maintain leverage within the region by providing stable sources of funding and international support despite political pressures from the UN and economic pressures from the US's economic sanctions."_

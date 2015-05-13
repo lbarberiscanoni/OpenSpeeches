@@ -6,8 +6,6 @@ tags:
 - philosophical
 author: Lorenzo-Barberis-Canonico
 ---
-Argentina
- NEG
 
 Adlai Stevenson once remarked that "The tragedy of our day is the climate of fear in which we live, and fear breeds repression. Too often sinister threats to the Bill of Rights, to the freedom of the mind, are concealed under the patriotic cloak of anti-communism." Today, it's the cloak of anti-terrorism. It's because it is our unconditional commitment to due process, even in the face of danger, that makes our country great that I stand before you today urging you to NOT allow the State Department to become the judge, jury, and executioner.
 

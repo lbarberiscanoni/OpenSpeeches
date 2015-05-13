@@ -5,8 +5,6 @@ tags:
 - econ
 author: Will-Tapp
 ---
-Somalia
-
 This bill does nothing to help the plight of the Somalian people; it helps the current government of the Somalian people which is threatened by terrorists, and because of these reasons it is a waste of money and American resources on a country that will do nothing for us in return for nothing. These reasons are why we must negate senators.
 
 My first contention, the amount of power that power Africa, which is what we would be using to install power in Somalia, is not enough. According to usaid.com the Power Africa organization will produce only 30 thousand megawatts of electricity in sub Saharan Africa. This is such a measly amount when you spread it out over all of the countries that Power Africa reaches. The energy information administration states that an average household uses 12 megawatts of power if we take that number and divide it into the 30 thousand megawatts that power Africa is providing we get 2 thousand 500 houses with power. Now I'm not completely positive senators but I'm pretty sure that there are more than 2 thousand 500 house in Somalia.

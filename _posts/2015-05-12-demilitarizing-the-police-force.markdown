@@ -5,7 +5,6 @@ tags:
 - philosophical
 author: Will-Tapp
 ---
-Demilitarizing the Police Force
 
 Senators this bill needs to be affirmed for two main reasons. The government is pouring money into police departments where the money is not needed and the things the police departments are using this money for are outrageous.
 

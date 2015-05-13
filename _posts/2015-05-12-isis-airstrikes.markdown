@@ -5,7 +5,6 @@ tags:
 - foreign
 author: Sarai-Dai
 ---
-**ISIS – neg**
 
 1. _Authorising the strikes violates international law._ According to the Telegraph on September 23, 2014, the only two reasons for using force in a way that does not violate international law are for self defence or to protect international peace and security. On 14 August, the UN Security Council passed resolution 2170 deploring the terrorist acts of ISIS, and "its continued gross, systematic and widespread abuses of human rights." Acting under Chapter VII, it urged all states to protect the civilian population and to cooperate in bringing ISIS to justice. However, the key phrase, to use "all necessary means", which in UN-speak is code for use of force, is missing.
 

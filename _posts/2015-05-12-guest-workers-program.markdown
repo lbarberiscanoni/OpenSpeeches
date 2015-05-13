@@ -5,9 +5,6 @@ tags:
 - econ
 author: Joe-Gunst
 ---
-A Bill to implement a Guest Worker Program
-
-AFF
 
 I stand in affirmation of this bill because of 3 primary reasons first immigration is an American Principle, second it will benefit our economy and finally why we really need to open our borders.
 

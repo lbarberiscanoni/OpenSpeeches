@@ -4,7 +4,6 @@ tags:
 - foreign
 author: Lorenzo-Barberis-Canonico
 ---
-Syrian Aid AFF
 
 **Taylor Seybolt,** from the University of Pittsburgh, analyzed 17 military interventions in six countries in the last 20 years and states that _"Humanitarian interventions tend to prolong conflicts by supplying resources to local fighting forces that don't conclusively end the conflict and by incentivizing dependency on humanitarian aid as an excuse for not taking political action to stop the war"_
 

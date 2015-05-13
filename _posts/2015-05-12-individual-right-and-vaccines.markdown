@@ -6,9 +6,6 @@ tags:
 - philosophical
 author: Joe-Gunst
 ---
-Vaccines
-
-NEG
 
 As the great former New Jersey Supreme court justice, Andrew Napolitano put it "Does the Government have the right to force vaccinations, in my view it doesn't because if you're an adult you own your own body and if you are a parent you are the custodian of the body of the child" Today in my speech I will go over 3 points, First, I will go over why this bill is morally wrong then I will go over the problems caused by the generalized wording of the bill and then I will go over why this bill is unconstitutional.
 

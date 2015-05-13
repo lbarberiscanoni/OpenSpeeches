@@ -6,8 +6,6 @@ tags:
 - philosophical
 author: Joe-Gunst
 ---
-Solar Power
- Neg
 
 The Great economist Milton Friedman once remarked "underlying most arguments against the free market is a lack of belief and freedom itself". This bill lacks the conviction that solar energy is able to compete in the free market.
 

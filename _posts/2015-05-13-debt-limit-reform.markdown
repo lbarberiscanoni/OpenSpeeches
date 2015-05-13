@@ -5,7 +5,6 @@ tags:
 - econ
 author: Lorenzo-Barberis-Canonico
 ---
-Debt Limit Reform NEG
 
 It's unconstitutional
 

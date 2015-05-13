@@ -6,9 +6,6 @@ tags:
 - foreign
 author: Joe-Gunst
 ---
-Border Patrol
-
-NEG
 
 I agree with the Affrimative's principle for passing this legislation, After all we should do what we can to help these children, but in Section 3 it says that we will be deporting these children to their country of origin. As such in my speech today I will go over 3 points. Firstly I will go over that immigration is an American principle, secondly that immigration helps the economy and finally how this bill doesn't actually help the children because it returns them to the very thing they fled, danger.
 

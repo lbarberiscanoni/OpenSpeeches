@@ -5,7 +5,6 @@ tags:
 - conlaw
 author: Sarai-Dai
 ---
-**Drinking Age – neg**
 
 1. _This bill violates federalism._ The legislation that many say sets the national drinking age, the National Minimum Drinking Age Act, does two things – sets a target purchase and public possession age of 21 and penalises states who do not adhere to this "target" age by reducing their highway funds. Notably, this act _does not_ mandate a federal drinking age – as a matter of fact, it doesn't even actually mandate any kind of drinking age. This is left up to the states to decide if they want a drinking age at all and what exemptions or restrictions can also be placed. The legislation in front of us explicitly forces a drinking age upon the states, which violates states' rights.
 

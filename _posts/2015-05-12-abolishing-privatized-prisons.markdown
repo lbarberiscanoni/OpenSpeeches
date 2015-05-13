@@ -5,7 +5,6 @@ tags:
 - philosophical
 author: Joe-Gunst
 ---
-A Bill to End all Use of Privatized Prisons in the United States
 
 We the people of the United States are infatuated with prison, just ask anyone with a Netflix account and they will start telling about "Orange in the new Black", in fact it is so present in America that despite the contrast there is relationship between Sesame Street and going to prison, Sesame Street has sketches where puppets talk about their parents being arrested in order to explain incarceration to children because it is so present in the united states.
 

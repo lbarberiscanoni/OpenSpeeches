@@ -202,3 +202,16 @@ pre {
         }
     }
 }
+
+/* Videos */
+.video-container {
+    position: relative;
+    width: 100%;
+    height: 0; 
+    
+    iframe {
+        position: absolute;
+        width: 100%;
+        height: 100%; 
+    }
+}

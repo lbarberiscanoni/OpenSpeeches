@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Bill Submission
-permalink: /billSubmission/
+title: Speech Submission
+permalink: /speechSubmission/
 ---
 <html>
 
@@ -37,6 +37,21 @@ permalink: /billSubmission/
 			<textarea class="form-control" rows="10" id="p_body" placeholder="Copy and Paste your Speech here." name="body"></textarea>
 		</div>
 		<div class="form-inline">
+            <select class="form-control" id="author">
+                <option> Select Author </option>
+                <option> Michael-Gallagher </option>
+                <option> Sarai-Dai </option>
+                <option> Joe-Gunst </option>
+                <option> Lorenzo-Barberis-Canonico </option>
+                <option> Will-Tapp </option>
+            </select>
+            <div class="form-group"> 
+                <input type="checkbox" value="conlaw" class="tag"> Constitutional
+                <input type="checkbox" value="econ" class="tag"> Economics
+                <input type="checkbox" value="domestic" class="tag"> Domestic Issues
+                <input type="checkbox" value="foreign" class="tag"> Foreign Policy
+                <input type="checkbox" value="philosophical" class="tag"> Philosophical
+            </div>
 			<input type="button" class="btn btn-default" id="go" value="Post" /> 
 		</div>
 		<div class="collapse" id="submitform">
@@ -51,7 +66,7 @@ permalink: /billSubmission/
 	</form>
 
 	<script>
-	function get_query(){
+		function get_query(){
 		// Source: http://fellowtuts.com/jquery/getting-query-string-values-in-javascript/
 	    var url = document.location.href;
 	    if (url.indexOf('?') == -1) return false ;
@@ -97,15 +112,23 @@ permalink: /billSubmission/
 
 	$("#go").click(function() {
 		//var user = $('#username').val() ;
-        var user = "lbarberiscanoni";
+	    var user = "lbarberiscanoni";
 		//var password = $('#password').val() ;
-        var password = "l0ll02013";
+	    var password = "l0ll02013";
+	    var author = $("select#author").val();
 		var title = $('#p_title').val() ;
+        
+        var tags = new Array();
+        $("input.tag:checked").each(function() {
+            tags.push("-" + this.value + "\n");
+        });
 
 		var p_body = '---\n' ;
 		p_body = p_body + 'layout: post \n' ;
+	    p_body = p_body + "author: " + author + " \n"
 		p_body = p_body + 'title:  "' + title +'" \n';
 		p_body = p_body + 'date:   '+ post_date() +' \n' ;
+        p_body = p_body + "tags: \n" + tags;
 		/* Setting the category here is not the most elegant way...
 		p_body = p_body + 'categories: tests \n'; 
 		*/
@@ -132,12 +155,12 @@ permalink: /billSubmission/
 	        },
 	        error: function(request, status, error) {
 	        	responseText = jQuery.parseJSON( request.responseText );
-        		$('#messages').append($('<div class="alert alert-danger alert-dismissible" role="alert">')
-        		.append('<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>')
-        		.append('<strong>' + request.status + '</strong>: ' + responseText.message )
-        		.append('<br>If you are using two-factor-auth, you will ahve to create ')
-        		.append('<a href="https://github.com/settings/tokens">a personal access token</a> with "repo" permissions and use this instead of your password.')
-        		.append('</div>'));
+	    		$('#messages').append($('<div class="alert alert-danger alert-dismissible" role="alert">')
+	    		.append('<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>')
+	    		.append('<strong>' + request.status + '</strong>: ' + responseText.message )
+	    		.append('<br>If you are using two-factor-auth, you will ahve to create ')
+	    		.append('<a href="https://github.com/settings/tokens">a personal access token</a> with "repo" permissions and use this instead of your password.')
+	    		.append('</div>'));
 	        	
 	        },
 	      })
@@ -163,6 +186,5 @@ permalink: /billSubmission/
 		}
 		$('#p_body').val(src_body) ;
 	}
-
 	</script>
 </body>

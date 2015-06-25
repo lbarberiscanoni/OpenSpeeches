@@ -118,9 +118,9 @@ permalink: /speechSubmission/
 	    var author = $("select#author").val();
 		var title = $('#p_title').val() ;
         
-        var tags = new Array();
+        var tags = [];
         $("input.tag:checked").each(function() {
-            tags.push("-" + this.value + "\n");
+            tags.push("- " + this.value + "\n");
         });
 
 		var p_body = '---\n' ;
@@ -128,7 +128,10 @@ permalink: /speechSubmission/
 	    p_body = p_body + "author: " + author + " \n"
 		p_body = p_body + 'title:  "' + title +'" \n';
 		p_body = p_body + 'date:   '+ post_date() +' \n' ;
-        p_body = p_body + "tags: \n" + tags;
+        p_body = p_body + "tags: \n";
+        for (i = 0; i < tags.length; i++) {
+            p_body = p_body + tags[i];
+        };
 		/* Setting the category here is not the most elegant way...
 		p_body = p_body + 'categories: tests \n'; 
 		*/

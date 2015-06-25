@@ -9,3 +9,7 @@ url: "http://lbarberiscanoni.github.io/OpenSpeeches"
 # Build settings
 markdown: kramdown
 gems: ['jekyll_video_tag'] 
+github:
+    repo: lbarberiscanoni/OpenSpeeches
+    branch: master
+

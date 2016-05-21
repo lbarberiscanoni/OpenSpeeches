@@ -1,0 +1,52 @@
+doctype html
+head
+    link(rel="stylesheet", href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css")
+    link(rel="stylesheet", href="../stylesheets/main.css")
+    //jQuery and Firebase
+    script(src="//code.jquery.com/jquery-1.11.3.min.js")
+    script(src="//code.jquery.com/jquery-migrate-1.2.1.min.js")
+    script(src="https://cdn.firebase.com/js/client/2.2.6/firebase.js")
+    script(src="../scripts/speechSubmission.js")
+    script(src="../scripts/headerAndFooter.js")
+body
+    .page-content
+        .wrapper
+            .post
+                header.post-header
+                    h1.post-title Speech Submission
+                article.post-content
+                    form
+                        label Speech Title
+                        input(type="text", placeholder="Capitalize the First Letter of Each Word")#speechTitle.form-control
+                        br
+                        label Speech Text
+                        textarea(rows="10", placeholder="Copy and Paste your Speech Here")#speechText.form-control
+                        br
+                        label Author Name
+                        input(type="text", placeholder="First Name and Last Name only")#authorName.form-control
+                        br
+                        label Speech Categories
+                        .form-group#categories
+                            .form-inline
+                                .col-md-4
+                                    p
+                                        input(type="checkbox", value="conlaw").tag
+                                        |  Constitutional
+                                    p
+                                        input(type="checkbox", value="econ").tag
+                                        |  Economics
+                                .col-md-4
+                                    p
+                                        input(type="checkbox", value="domestic").tag
+                                        |  Domestic Issues
+                                    p
+                                        input(type="checkbox", value="foreign").tag
+                                        |  Foreign Policy
+                                .col-md-4
+                                    p
+                                        input(type="checkbox", value="counterplan").tag
+                                        |  Counterplan
+                                    p
+                                        input(type="checkbox", value="philosophical").tag
+                                        |  Philosophical
+                        button.btn.btn-primary.form-control#submitSpeech Submit Speech

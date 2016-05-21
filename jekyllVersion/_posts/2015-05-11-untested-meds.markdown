@@ -1,0 +1,12 @@
+---
+layout: post
+tags: domestic
+author: Michael-Gallagher
+---
+The Food and Drug Administration was founded in a time where lies and recklessness plagued the food and drug marketplace.  Meat packing plants were unsanitary and posed public health risks.  Thousand of patent medicines were available on the market claiming to cure diseases but were actually just drugs like opium and heroin.  The FDA is supposed to protect people and stop them from getting taken advantage of, which is what they do through their rigorous drug testing process.  This system needs to stay in place because removing it would be unethical, and we need to stop patients from getting taken advantage of and thus prevent history from repeating itself.
+
+There is no defined minimum for the testing of the medicines in this bill.  Many companies could get by with testing on animals or even limited testing on humans, but as Kevin Fitzgerald, a medical ethicist at Georgetown University said about animal testing, “Once you move from one species to another, there’s always the possibility that there can be differences in how that particular species reacts to a treatment, rather than the animals it’s been tested on. It can go from not functioning well at all, to actually causing harm. And I think this was part of the risk.”  However, “untested” doesn’t even require animal testing.  Untested could mean anything.  While heroin and opium may be a bit of a stretch because they’re illegal, anything unhealthy could go into these medications.  The patient would be so desperate they would feel like they had no other options, costing themselves and their living relatives very extensive medical costs for nothing.
+
+We need to learn from history.  If any company wants to create a drug and claim false results, we need the FDA to stop that from happening.  That was their whole purpose.  What does the FDA become if it doesn’t even have to test drugs? The Food Administration? All jokes aside, the FDA was made for a good purpose, and removing half of its duties undermines all of the lessons we were supposed to learn. I know that my constituents voted me into Congress to make decisions that represent them, and my duty, the government’s duty, is to keep our people safe, and this bill allows patients to jump blindly into untested medications that may harm them.  To protect our citizens, we need to make sure this bill does not become law.
+
+

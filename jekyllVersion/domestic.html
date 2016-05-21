@@ -1,0 +1,25 @@
+---
+layout: page
+title: Domestic
+tags:
+- speechArea
+permalink: /domestic/
+---
+
+<div class="home">
+
+  <ul class="post-list">
+    {% for domestic in site.tags.domestic %}
+      <li>
+        <span class="post-meta">{{ domestic.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ domestic.url | prepend: site.baseurl }}">{{ domestic.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>

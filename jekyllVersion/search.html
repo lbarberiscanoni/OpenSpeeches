@@ -1,0 +1,52 @@
+---
+layout: page
+title: Search
+permalink: /search/
+---
+{% include search_head.html %}
+
+<div class="starter-template row">
+<p class="lead">Type to search. Click on row headers to sort.</p> 
+</div>
+
+<div id="entry-list">
+
+	<div class="row" style="margin-bottom:10px;">
+			<input type="text" class="search form-control" placeholder="Search" />
+	</div>
+
+	<div class="row">
+		<table class="table table-striped">
+			<thead>
+				<tr>
+					<th style="width:30%;"><span class="sort" data-sort="name">Speech</span></th>
+					<th style="width:20%;"><span class="sort" data-sort="category">Author</span></th>
+					<th style="width:30%;"><span class="sort" data-sort="tags">Tags</span></th>
+				</tr>
+			</thead>
+			<tbody class="list">
+			{% for post in site.posts %}
+				<tr>
+					<td class="name">
+                        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                    </td>
+					<td class="category">{{ post.author }}</td>
+					<td class="tags">{{ post.tags | array_to_sentence_string }}</td>
+				</tr>
+			{% endfor %}
+			</tbody>
+		</table>
+	</div>
+
+</div>
+
+
+<script type="text/javascript">
+
+var options = {
+  valueNames: ['name', 'category', 'tags']
+};
+
+var entryList = new List('entry-list', options);
+
+</script>

@@ -1,0 +1,25 @@
+---
+layout: page
+title: Foreign Policy
+tags:
+- speechArea
+permalink: /fp/
+---
+
+<div class="home">
+
+  <ul class="post-list">
+    {% for foreign in site.tags.foreign %}
+      <li>
+        <span class="post-meta">{{ foreign.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ foreign.url | prepend: site.baseurl }}">{{ foreign.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>

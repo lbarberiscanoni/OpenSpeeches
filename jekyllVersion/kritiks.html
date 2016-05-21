@@ -1,0 +1,23 @@
+---
+layout: page
+title: Types of Kritiks
+permalink: /kritiks/
+---
+
+<div class="home">
+
+  <ul class="post-list">
+    {% for kritik in site.tags.kritik %}
+      <li>
+        <span class="post-meta">{{ kritik.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ kritik.url | prepend: site.baseurl }}">{{ kritik.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>

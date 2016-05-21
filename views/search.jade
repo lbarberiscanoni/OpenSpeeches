@@ -1,0 +1,25 @@
+doctype html
+head
+    link(rel="stylesheet", href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css")
+    link(rel="stylesheet", href="../stylesheets/main.css")
+    script(src="//code.jquery.com/jquery-1.11.3.min.js")
+    script(src="//code.jquery.com/jquery-migrate-1.2.1.min.js")
+    script(src="https://cdn.firebase.com/js/client/2.2.6/firebase.js")
+    script(src="../scripts/list.js")
+    script(src="../scripts/headerAndFooter.js")
+    script(src="../scripts/search.js")
+body
+    .page-content
+        #entry-list
+            .row(style="margin-bottom='10px';")
+                input(type="text" placeholder="Search").search.form-control
+            .row
+                table.table.table-striped
+                    thead
+                        th(style="width:30%;")
+                            span(data-sort="title").sort Speech Title
+                        th(style="width:20%;")
+                            span(data-sort="author").sort Author Name
+                        th(style="width:30%;")
+                            span(data-sort="categories").sort Categories
+                    tbody.list

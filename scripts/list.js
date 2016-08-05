@@ -79,6 +79,7 @@ var List = function(id, options, values) {
         callbacks: function(options) {
             self.list = h.getByClass(options.listClass, self.listContainer, true);
             h.addEvent(h.getByClass(options.searchClass, self.listContainer), 'keyup', self.search);
+            window.ha = h.getByClass(options.searchClass, self.listContainer);
             sortButtons = h.getByClass(options.sortClass, self.listContainer);
             h.addEvent(sortButtons, 'click', self.sort);
         },
@@ -279,7 +280,23 @@ var List = function(id, options, values) {
             options.sortFunction = options.sortFunction;
         } else {
             options.sortFunction = function(a, b) {
-                return h.sorter.alphanum(a.values()[value].toLowerCase(), b.values()[value].toLowerCase(), isAsc);
+                var value_tmp = a.values()[value];
+                var value_tmp_b = b.values()[value];
+                if(value_tmp != undefined){
+                    if(typeof(value_tmp) != "string")
+                        value_tmp = value_tmp[0];
+                    if(typeof(value_tmp_b) != "string")
+                        value_tmp_b = value_tmp_b[0];
+                    if(value_tmp == "")
+                        return 0;
+                    if(value_tmp_b == "")
+                        return 1
+                    return h.sorter.alphanum(value_tmp.toLowerCase(), value_tmp_b.toLowerCase(), isAsc);    
+                
+                } else {
+                    return 0;
+                }
+                
             };
         }
         self.items.sort(options.sortFunction);

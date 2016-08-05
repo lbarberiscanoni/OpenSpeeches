@@ -25,12 +25,12 @@ $(document).ready(function() {
             );
         });
     };
+
     listOfSpeeches.once("value", function(snapshot) {
         var numOfSpeeches = snapshot.numChildren();
 
-        for (i = numOfSpeeches; i > numOfSpeeches - 5; i--) {
-            console.log(i)
-            if (section == "index") {
+        if (section == "index") {
+            for (i = numOfSpeeches; i > numOfSpeeches - 5; i--) {
                 listOfSpeeches.orderByChild("index").equalTo(i).on("child_added", function(snapshot) {
                     var speech = snapshot.val();
                     var listOfCategories = speech.categories;
@@ -39,10 +39,16 @@ $(document).ready(function() {
                         showSpeech($(this).attr("id"));
                     });
                 });
-            } else {
+            };
+            listOfSpeeches.on("child_added", function(snapshot) {
+                af = snapshot.val();
+                cats = af.categories
+                console.log(cats);
+            });
+        } else {
+            for (i = numOfSpeeches; i > 0; i--) {
                 listOfSpeeches.orderByChild("index").equalTo(i).on("child_added", function(snapshot) {
                     var speech = snapshot.val();
-                    console.log(speech);
                     var listOfCategories = speech.categories;
                     for (a = 0; a < listOfCategories.length; a++) {
                         if (listOfCategories[a] == section) {

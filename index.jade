@@ -1,14 +1,38 @@
 doctype html
 head
-    link(rel="stylesheet", href="stylesheets/main.css")
-    script(src="//code.jquery.com/jquery-1.11.3.min.js")
-    script(src="//code.jquery.com/jquery-migrate-1.2.1.min.js")
-    script(src="https://cdn.firebase.com/js/client/2.2.6/firebase.js")
-    script(src="scripts/headerAndFooter.js")
-    script(src="scripts/main.js")
+	link(rel="stylesheet", href="stylesheets/main.css")
+	script(src="//code.jquery.com/jquery-1.11.3.min.js")
+	script(src="//code.jquery.com/jquery-migrate-1.2.1.min.js")
+	script(src="https://cdn.firebase.com/js/client/2.2.6/firebase.js")
+	script(src="scripts/main.js")
 body
-    .page-content
-        .wrapper
-            .home
-                h1.page-heading Latest Speeches
-                .post-list
+	header.site-header
+		.wrapper
+			a(href="index.html").site-title Open Speeches
+			nav.site-nav 
+				a.menu-icon
+				.trigger
+	.page-content
+		.wrapper
+			.home
+				h1.page-heading Latest Speeches
+				.post-list
+	footer.site-footer
+		.wrapper
+			h2.footer-heading Open Speeches
+			.footer-col-wrapper
+				.footer-col.footer-col-1
+					ul.contact-list
+						li Questions? Email me at:
+							li
+								a(href="mailto:	hllbck7@gmail.com") hllbck7@gmail.com
+			.footer-col.footer-col-2
+			.footer-col.footer-col-3
+				p.text This site is a collection of all the congressional debate speeches for the RHS team to use for inspiration and learning. I highly encourage reusing as much as you can, but always remember that the strongest speeches are original, and by only using the ideas of others you limit yourself to the past while forfeiting an innovative future.
+	script.
+		listOfPages = [["speech_submission", "Speech Submission"], ["explanation", "Congress Explanation"], ["rules", "Rules"], ["principles_and_theories", "Principles and Theories"], ["kritiks", "Types of Kritiks"], ["conlaw", "Constiutional Law"], ["domestic", "Domestic Issues"], ["foreign", "Foreign Policy"], ["econ", "Economics"], ["philosophical", "Philosophical"], ["counterplans", "Counterplans"], ["tutorials", "Tutorials"], ["greatSpeeches", "Great Speeches"], ["search", "Search"]];
+		for (i = 0; i < listOfPages.length; i++) {
+			pageLink = listOfPages[i];
+			$(".trigger").append("<a href='../views/" + pageLink[0] + ".html' class='page-link'>" + pageLink[1] + "</a>");
+		};
+

@@ -30,36 +30,27 @@ $(document).ready(function() {
         var numOfSpeeches = snapshot.numChildren();
 
         if (section == "index") {
-            for (i = numOfSpeeches; i > numOfSpeeches - 5; i--) {
-                listOfSpeeches.orderByChild("index").equalTo(i).on("child_added", function(snapshot) {
-                    var speech = snapshot.val();
-                    var listOfCategories = speech.categories;
-                    $(".post-list").append("<li><span class='post-meta'>" + speech.dateFormatted + "</span><h2><button class='post-link' id='" + snapshot.key() + "'>" + speech.title + "</button></h2>");
-                    $(".post-link:last").click(function(event) {
-                        showSpeech($(this).attr("id"));
-                    });
-                });
-            };
-            listOfSpeeches.on("child_added", function(snapshot) {
-                af = snapshot.val();
-                cats = af.categories
-                console.log(cats);
-            });
+			listOfSpeeches.limitToLast(10).on("child_added", function(snapshot) {
+				var speech = snapshot.val();
+				var listOfCategories = speech.categories;
+				$(".post-list").append("<li><span class='post-meta'>" + speech.dateFormatted + "</span><h2><button class='post-link' id='" + snapshot.key() + "'>" + speech.title + "</button></h2>");
+				$(".post-link:last").click(function(event) {
+					showSpeech($(this).attr("id"));
+				});
+			});
         } else {
-            for (i = numOfSpeeches; i > 0; i--) {
-                listOfSpeeches.orderByChild("index").equalTo(i).on("child_added", function(snapshot) {
-                    var speech = snapshot.val();
-                    var listOfCategories = speech.categories;
-                    for (a = 0; a < listOfCategories.length; a++) {
-                        if (listOfCategories[a] == section) {
-                            $(".post-list").append("<li><span class='post-meta'>" + speech.dateFormatted + "</span><h2><button class='post-link' id='" + snapshot.key() + "'>" + speech.title + "</button></h2>");
-                            $(".post-link:last").click(function(event) {
-                                showSpeech($(this).attr("id"));
-                            });
-                        };
-                    };
-                });
-            };
+			listOfSpeeches.orderByChild("index").on("child_added", function(snapshot) {
+				var speech = snapshot.val();
+				var listOfCategories = speech.categories;
+				for (a = 0; a < listOfCategories.length; a++) {
+					if (listOfCategories[a] == section) {
+						$(".post-list").append("<li><span class='post-meta'>" + speech.dateFormatted + "</span><h2><button class='post-link' id='" + snapshot.key() + "'>" + speech.title + "</button></h2>");
+						$(".post-link:last").click(function(event) {
+							showSpeech($(this).attr("id"));
+						});
+					};
+				};
+			});
         };
     });
 });
